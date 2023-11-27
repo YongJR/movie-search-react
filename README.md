@@ -1,4 +1,4 @@
-# Movie Search React App
+# Movie Search React
 
 💻 React, Javascript
 
