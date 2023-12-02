@@ -25,7 +25,7 @@ Throughout the development of this application, key concepts and skills were acq
 -   **Dynamic Rendering**: Utilize React's state and hooks to dynamically render search results.
 -   **Responsive Design**: Ensure the application provides a seamless experience on various screen sizes.
 
-# Getting Started
+### Getting Started
 > Clone the repository
 
     git clone https://github.com/YongJR/movie-search-react.git
